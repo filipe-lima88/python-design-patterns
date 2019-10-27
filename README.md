@@ -7,7 +7,9 @@ Check the main principles in OOP:
 ### Encapsulation
 Encapsulation is the mechanism of hiding of data implementation by restricting access to public methods. In Python, 
 one don't have keyworkds like 'public' or 'private'. So, the private mode for a class attribute may be obtained using
-the '__' prefix. See 'oop/encapsulation.py' code for an example.
+the '__' prefix. 
+See [oop/encapsulation.py](https://github.com/victorouttes/python-design-patterns/blob/master/oop/abstraction.py) 
+code for an example.
 
 ### Polymorphism
 A class method that offers different implementations according to input. It can also be when the same interface 

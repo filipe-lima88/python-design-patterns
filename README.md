@@ -31,3 +31,7 @@ code for example.
 It is a way to combine classes into more complex data structures or implementations without the use of inheritance.
 See [oop/composition.py](https://github.com/victorouttes/python-design-patterns/blob/master/oop/composition.py) 
 code for example.
+
+## Singleton
+Aims to ensure that one and only one class object is created, with global and centralized access point for the
+program. Typically used for logging and database access services. 

@@ -34,4 +34,8 @@ code for example.
 
 ## Singleton
 Aims to ensure that one and only one class object is created, with global and centralized access point for the
-program. Typically used for logging and database access services. 
+program. Typically used for logging and database access services. Some examples:
+
+* [singleton/classic.py](https://github.com/victorouttes/python-design-patterns/blob/master/singleton/classic.py)
+* [singleton/lazy.py](https://github.com/victorouttes/python-design-patterns/blob/master/singleton/lazy.py)
+* [singleton/monostate.py](https://github.com/victorouttes/python-design-patterns/blob/master/singleton/monostate.py)
